@@ -3,6 +3,7 @@
 Loginster is a login system with many features, including RestAPI. Developed using Express.js, MongoDB and Node.js 
 
 ## Features
+- [ ] Front-end 😑
 - [x] User creation
 - [x] Roles for users 
 - [x] Ability to change user data
